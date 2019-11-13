@@ -1,0 +1,13 @@
+h1 {
+    text-transform: uppercase;
+}
+body {
+    background-image: linear-gradient(
+        to left bottom,
+        rgba(9, 75, 255, 0.3)
+    ),
+    url(media/kitten1.jpeg);
+}
+div{
+    height: 100vh;
+}

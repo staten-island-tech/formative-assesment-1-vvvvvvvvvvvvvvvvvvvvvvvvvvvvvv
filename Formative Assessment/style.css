@@ -4,10 +4,16 @@ h1 {
 body {
     background-image: linear-gradient(
         to left bottom,
-        rgba(9, 75, 255, 0.3)
-    ),
-    url(media/kitten1.jpeg);
+        rgba(234, 9, 255, 0.3),
+        rgba(8, 80, 177, 0.5)
+    ), 
+    url(media/kitten1.jpg);
+    background-size: cover;
 }
 div{
     height: 100vh;
+}
+img{
+    height: 100px;
+    /*filter: grayscale();*/
 }

@@ -15,5 +15,9 @@ div{
 }
 img{
     height: 100px;
-    /*filter: grayscale();*/
+    filter: grayscale(0.8);
+}
+.container {
+    align-content: center;
+    justify-content: center;
 }
